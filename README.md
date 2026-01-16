@@ -17,9 +17,9 @@ To add a new script, click on the + button.
 
 Select *New*,copy and paste the script code and hit *Save & Close*. Alternatively select *Install from URL* and paste the raw link to the file.
 
-**Script:** [ING_document_batch_downloader.js](ING_document_batch_downloader.js)
+**Script:** [ING_documents_batch_downloader.js](ING_documents_batch_downloader.js)
 
-**Raw File:** [ING_document_batch_downloader.js](https://raw.githubusercontent.com/Erzmaster/Unofficial-ING-Documents-Batch-Downloader/refs/heads/main/ING_document_batch_downloader.js)
+**Raw File:** [ING_documents_batch_downloader.js](https://raw.githubusercontent.com/Erzmaster/Unofficial-ING-Documents-Batch-Downloader/refs/heads/main/ING_documents_batch_downloader.js)
 
 After successful installation reload the page in question.
 
