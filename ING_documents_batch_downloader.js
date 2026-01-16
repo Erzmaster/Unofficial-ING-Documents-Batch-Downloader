@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ING Postbox Batch Downloader
+// @name         ING Documents Batch Downloader
 // @version      1.0
 // @description  App to batch download documents from the ING Post-Box. Additionally it allows renaming of documents by date, document type, and subject.
 // @function1    The app filters the visible Post-Box entries by date and downloads the matching documents.
